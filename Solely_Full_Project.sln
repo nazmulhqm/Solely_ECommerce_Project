@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsDB_R57_Solely", "IsDB_R57_Solely_Mart-master\IsDB_R57_Solely.csproj", "{CDD2EB6B-B6C2-4009-8AD2-938AA028E814}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Angular", "Angular\", "{718F8D02-FD86-4CC3-806D-F031DB90DB9D}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
@@ -47,16 +45,14 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "React", "React\", "{4283D06
 		SlnRelativePath = "React\"
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsDB_R57_Solely", "..\..\..\Downloads\Solely_Full_Project\Solely_Full_Project\API\IsDB_R57_Solely.csproj", "{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CDD2EB6B-B6C2-4009-8AD2-938AA028E814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDD2EB6B-B6C2-4009-8AD2-938AA028E814}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDD2EB6B-B6C2-4009-8AD2-938AA028E814}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDD2EB6B-B6C2-4009-8AD2-938AA028E814}.Release|Any CPU.Build.0 = Release|Any CPU
 		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
@@ -65,6 +61,10 @@ Global
 		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
