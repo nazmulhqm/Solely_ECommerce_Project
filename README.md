@@ -1,6 +1,7 @@
 # Solely E-Commerce Site
 
-Solely E-Commerce Site is a web application designed to handle a comprehensive range of e-commerce functionalities. Developed using .NET Core 8, Angular & React, this platform provides extensive features for managing products, processing orders and handling user accounts. 
+Solely E-Commerce Site is a web application designed to handle a comprehensive range of e-commerce functionalities. Developed using .NET Core 8, Angular & React, 
+this platform provides extensive features for managing products, processing orders and handling user accounts. 
 
 ## Features
 
